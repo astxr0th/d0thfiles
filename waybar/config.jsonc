@@ -1,0 +1,74 @@
+{
+    "layer": "top",
+    "position": "top",
+    "height": 32,
+    "spacing": 0,
+    "margin": "5 6 5 6",
+    "reload_style_on_change": true,
+    
+    "modules-left": ["ext/workspaces"],
+    "modules-center": ["dwl/window"],
+    "modules-right": ["tray", "custom/separator1","group/hardware", "custom/separator2", "clock"],
+
+    // "custom/logo": {
+    //     "format": "1o",
+    //     "tooltip": false
+    // },
+    
+    "dwl/tags": {
+      "num-tags": 9,
+      "tag-labels": ["1", "2", "3", "4", "5", "6", "7", "8", "9"],
+      "expand": true
+    },
+
+
+    "ext/workspaces": {
+        "on-click": "activate",
+        "disable-scroll": true,
+        "all-outputs": false,
+        "format": "{name}",
+        "format-empty": "{id}empty",
+        "ignore-hidden": true,
+        "active-only": false
+    },
+
+    "custom/separator1": {
+        "format": "|",
+        "tooltip": false
+    },
+
+    "custom/separator2": {
+        "format": "|",
+        "tooltip": false
+    },
+
+    "clock": {
+        "format": " {:%H:%M}",
+        "interval": 1,
+        "tooltip": false
+    },
+    "group/hardware": {
+      "orientation": "horizontal",
+      "modules": ["memory", "cpu"],
+      "drawer": {
+        "transition-duration": 500,
+        "transition-left-to-right": false,
+      },
+    },
+    "cpu": {
+      "format": " {usage}%",
+      "tooltip": true,
+      "on-click-right": "foot -e btop",
+    },
+    "memory": {
+      "format": " {}%",
+      "on-click-right": "foot -e btop",
+    },
+
+    "tray": {
+      "spacing": 4
+    },
+
+
+
+}
