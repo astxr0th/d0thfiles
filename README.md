@@ -11,7 +11,7 @@
 
 ## showcase
 
-| neofetch + terminal | rofi launcher | neovim + yazi |
+| fastfetch + terminal | rofi launcher | neovim + yazi |
 |---|---|---|
 | ![term](https://raw.githubusercontent.com/astxr0th/d0thfiles/main/20260531131953.png) | ![rofi](https://raw.githubusercontent.com/astxr0th/d0thfiles/main/20260531132019.png) | ![nvim](https://raw.githubusercontent.com/astxr0th/d0thfiles/main/20260531132217.png) |
 
@@ -53,7 +53,7 @@ d0thfiles/
 
 ## install
 
-> No automated install script yet. Stow or symlink manually.
+> No automated install script yet. Soon...
 
 ```bash
 git clone https://github.com/astxr0th/d0thfiles ~/.dotfiles
