@@ -36,7 +36,7 @@
 |---|---|
 | **DISTRO** | Arch Linux |
 | **WM** | [mango](https://github.com/mangowm/mango) |
-| **Terminal** | [foot](https://codeberg.org/dnkl/foot) 1.27.0 |
+| **Terminal** | [foot](https://codeberg.org/dnkl/foot) |
 | **Editor** | Neovim (15 plugins · snacks dashboard) |
 | **Launcher** | Rofi |
 | **File Manager** | Yazi |
