@@ -11,12 +11,12 @@
                                                    
                                                    
                                                                
-                                                               
+                                                                 
 ```
 
 **wxw @ nuclearcore** — Arch Linux · mango WM
 
-![screenshot](https://raw.githubusercontent.com/astxr0th/d0thfiles/main/preview1.png)
+![screenshot](https://raw.githubusercontent.com/astxr0th/d0thfiles/20260531131953.png)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 | neofetch + terminal | rofi launcher | neovim + yazi |
 |---|---|---|
-| ![term](https://raw.githubusercontent.com/astxr0th/d0thfiles/main/preview1.png) | ![rofi](https://raw.githubusercontent.com/astxr0th/d0thfiles/main/preview2.png) | ![nvim](https://raw.githubusercontent.com/astxr0th/d0thfiles/main/preview3.png) |
+| ![term](https://raw.githubusercontent.com/astxr0th/d0thfiles/20260531131953.png) | ![rofi](https://raw.githubusercontent.com/astxr0th/d0thfiles/20260531132019.png) | ![nvim](https://raw.githubusercontent.com/astxr0th/d0thfiles/20260531132217.png) |
 
 ---
 
