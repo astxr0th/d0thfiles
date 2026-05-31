@@ -16,7 +16,7 @@
 
 **wxw @ nuclearcore** — Arch Linux · mango WM
 
-![screenshot](https://raw.githubusercontent.com/astxr0th/d0thfiles/main/20260531134946.png))
+![screenshot](https://raw.githubusercontent.com/astxr0th/d0thfiles/main/20260531134946.png)
 
 </div>
 
