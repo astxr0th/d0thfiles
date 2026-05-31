@@ -26,7 +26,7 @@
 
 | neofetch + terminal | rofi launcher | neovim + yazi |
 |---|---|---|
-| ![term](https://raw.githubusercontent.com/astxr0th/d0thfiles/20260531131953.png) | ![rofi](https://raw.githubusercontent.com/astxr0th/d0thfiles/20260531132019.png) | ![nvim](https://raw.githubusercontent.com/astxr0th/d0thfiles/20260531132217.png) |
+| ![term](https://raw.githubusercontent.com/astxr0th/d0thfiles/main/20260531131953.png) | ![rofi](https://raw.githubusercontent.com/astxr0th/d0thfiles/main/20260531132019.png) | ![nvim](https://raw.githubusercontent.com/astxr0th/d0thfiles/main/20260531132217.png) |
 
 ---
 
