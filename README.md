@@ -60,7 +60,7 @@ git clone https://github.com/astxr0th/d0thfiles ~/.dotfiles
 cd ~/.dotfiles
 
 # copy the files to the right directory
-cp -r ~/d0thfiles/* ~/.config/
+cp -r ~/.dotfiles/* ~/.config/
 ```
 
 Repeat for each component you want. Make sure the relevant packages are installed first.
