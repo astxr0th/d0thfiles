@@ -70,13 +70,13 @@ Repeat for each component you want. Make sure the relevant packages are installe
 ## dependencies
 
 ```
-foot  mango  neovim  rofi  yazi  waybar  swaync  python-pywal
+foot  mango  neovim  rofi  yazi  waybar  swaync  python-pywal awww
 ```
 
 Install on Arch:
 
 ```bash
-paru -S foot mangowm-git neovim rofi yazi waybar swaync python-pywal
+paru -S foot mangowm-git neovim rofi yazi waybar swaync python-pywal awww
 ```
 ## keybindings
  
