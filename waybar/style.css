@@ -1,4 +1,4 @@
-@import "../../.cache/wal/colors-waybar.css";
+@import "/home/wxw/.cache/wal/colors-waybar.css";
 /* @define-color main alpha(@color0, 0.7); */
 @define-color main @color0;
 * {
@@ -25,6 +25,11 @@ window#waybar {
     color: #1a1a1a;
     padding: 0 8px;
     font-weight: bold;
+}
+
+#layout {
+    transition: none;
+    color: @color6;
 }
 
 #workspaces {
@@ -94,7 +99,8 @@ window#waybar {
 }
 
 #custom-separator1,
-#custom-separator2 {
+#custom-separator2,
+#custom-separator3 {
     color: @color6;
     padding: 0 6px;
 }

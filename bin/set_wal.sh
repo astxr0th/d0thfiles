@@ -4,4 +4,5 @@ wal -i "$wal"
 cp "$wal" ~/.cache/wal/wallpaper.jpg
 swaync-client -rs
 awww img "$HOME/.cache/wal/wallpaper.jpg" --transition-type=any --transition-fps 180
-sed 's/#//' ~/.cache/wal/foot.ini > ~/.config/foot/foot.ini
+RGB_COLOR=$(sed -n '2p' ~/.cache/wal/colors | tr -d '#')
+openrgb -c "$RGB_COLOR" > /dev/null 2>&1 &
