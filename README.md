@@ -1,3 +1,7 @@
+> [!NOTE]
+> This is my old waybar/rofi setup and isn't maintained anymore. The current one, with an installer,
+> is at [astxr0th/dotfiles](https://github.com/astxr0th/dotfiles).
+
 <div align="center">
 
 
@@ -23,7 +27,7 @@
 |---|---|
 | **DISTRO** | Arch Linux |
 | **WM** | [mango](https://github.com/mangowm/mango) |
-| **Terminal** | [kitty](https://codeberg.org/dnkl/foot) |
+| **Terminal** | [kitty](https://sw.kovidgoyal.net/kitty) |
 | **Editor** | Neovim (15 plugins · snacks dashboard) |
 | **Launcher** | Rofi |
 | **File Manager** | Yazi |
